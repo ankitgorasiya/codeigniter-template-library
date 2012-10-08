@@ -1,0 +1,30 @@
+/* 
+    Document   : style
+    Created on : Oct 9, 2011, 11:59:08 AM
+    Author     : karan
+    Description:
+    Purpose of the stylesheet follows.
+*/
+
+
+/******************************************************/
+/* general */
+/******************************************************/
+.align-center,.text-align-center
+{
+    text-align: center !important;
+}
+
+.left{
+    text-align:left !important;
+}
+.right{
+    text-align:right !important;
+}
+.center{
+    text-align:center !important;
+}
+
+/******************************************************/
+/*Main Content */
+/******************************************************/
